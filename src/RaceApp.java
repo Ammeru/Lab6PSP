@@ -14,7 +14,7 @@ public class RaceApp extends JFrame {
     private int lapsCompleted = 0;
 
     public RaceApp() {
-        setTitle("Nested Circles Race");
+        setTitle("Гонка до первого пробежавшего");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(400, 400);
 
